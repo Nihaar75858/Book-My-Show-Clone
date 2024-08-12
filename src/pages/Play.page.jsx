@@ -13,7 +13,7 @@ const Playpage = () => {
             <div className="w-1/2 md:1/3 lg:w-3/12 my-3 flex items-center">
               <Poster
                 isPlay={true}
-                src=""
+                src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-so-rude-of-me-by-swati-sachdeva-0-2022-9-4-t-6-10-37.jpg"
                 title="So Rude of me by Sweets"
                 subtitle="Comedy Shows | English, Kannada, Hindi | 18yrs+ | 2hrs 30min"
               />
@@ -21,7 +21,7 @@ const Playpage = () => {
             <div className="w-1/2 md:1/3 lg:w-3/12 my-3 flex items-center">
               <Poster
                 isPlay={true}
-                src=""
+                src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-so-rude-of-me-by-swati-sachdeva-0-2022-9-4-t-6-10-37.jpg"
                 title="So Rude of me by Sweets"
                 subtitle="Comedy Shows | English, Kannada, Hindi | 18yrs+ | 2hrs 30min"
               />
@@ -29,7 +29,7 @@ const Playpage = () => {
             <div className="w-1/2 md:1/3 lg:w-3/12 my-3 flex items-center">
               <Poster
                 isPlay={true}
-                src=""
+                src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-so-rude-of-me-by-swati-sachdeva-0-2022-9-4-t-6-10-37.jpg"
                 title="So Rude of me by Sweets"
                 subtitle="Comedy Shows | English, Kannada, Hindi | 18yrs+ | 2hrs 30min"
               />
@@ -37,7 +37,7 @@ const Playpage = () => {
             <div className="w-1/2 md:1/3 lg:w-3/12 my-3 flex items-center">
               <Poster
                 isPlay={true}
-                src=""
+                src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-so-rude-of-me-by-swati-sachdeva-0-2022-9-4-t-6-10-37.jpg"
                 title="So Rude of me by Sweets"
                 subtitle="Comedy Shows | English, Kannada, Hindi | 18yrs+ | 2hrs 30min"
               />
@@ -45,7 +45,7 @@ const Playpage = () => {
             <div className="w-1/2 md:1/3 lg:w-3/12 my-3 flex items-center">
               <Poster
                 isPlay={true}
-                src=""
+                src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-so-rude-of-me-by-swati-sachdeva-0-2022-9-4-t-6-10-37.jpg"
                 title="So Rude of me by Sweets"
                 subtitle="Comedy Shows | English, Kannada, Hindi | 18yrs+ | 2hrs 30min"
               />
@@ -53,7 +53,7 @@ const Playpage = () => {
             <div className="w-1/2 md:1/3 lg:w-3/12 my-3 flex items-center">
               <Poster
                 isPlay={true}
-                src=""
+                src="https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-so-rude-of-me-by-swati-sachdeva-0-2022-9-4-t-6-10-37.jpg"
                 title="So Rude of me by Sweets"
                 subtitle="Comedy Shows | English, Kannada, Hindi | 18yrs+ | 2hrs 30min"
               />
